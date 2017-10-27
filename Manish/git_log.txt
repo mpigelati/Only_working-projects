@@ -1,0 +1,78 @@
+commit 7151e9de6fbb0707c0acc17c2f87e948cd6158af
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Aug 21 17:44:43 2017 +0530
+
+    for every 10 sec the program loops and collect list of files
+
+commit afadba4add9170471c36a7787bd5c1fbcaed0906
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Aug 21 16:30:45 2017 +0530
+
+    working till now
+
+commit 599e085961879d141b3d492f146473d0ca5fb963
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Aug 21 16:21:59 2017 +0530
+
+    able to generate log file and pring the content
+
+commit 0738acdeb7addc53d0399cc05be1ae88b83897f3
+Merge: 35278c2 6ed8b6c
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Aug 21 16:07:55 2017 +0530
+
+    able to generate json file
+
+commit 35278c202f12cc6a326526c4e68ade795ee925c5
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Mon Aug 21 08:40:32 2017 +0530
+
+    adding sample to git
+
+commit 6ed8b6c3d93207ee848a4bdde71fa0c09df675a2
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Sun Aug 20 21:11:29 2017 +0530
+
+    adding version in file
+
+commit 90688db27e23253993a9d6b9573e6fa8bde61374
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Sat Aug 19 14:44:17 2017 +0530
+
+    adding version controling for file
+
+commit faeaa7dca0d303b33d08a6592f6f5b545b40aab2
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Sat Aug 19 14:43:14 2017 +0530
+
+    json parsing is not fine
+
+commit dd1046112455ae287eef32388f89f8141336713d
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Thu Aug 17 23:30:59 2017 +0530
+
+    seeing some issur  in parsing json object
+
+commit ba006cabe5dac712eb0f3a0d323d251b9812c5b5
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Thu Aug 17 19:08:03 2017 +0530
+
+    chnages
+
+commit 6ccfd840a158da9e38e44044d54345d49e932541
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Wed Aug 16 10:18:27 2017 +0530
+
+    able to print committed files using commit
+
+commit cfbfa9fe9f52d317ace1f05f5f67355103718ce6
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Wed Aug 16 09:54:15 2017 +0530
+
+    basic structure is working
+
+commit 1fa8611f16b6ab4c33cc7380dea59309a99fedca
+Author: mpigelati <saimohansai@gmail.com>
+Date:   Wed Aug 16 09:08:59 2017 +0530
+
+    adding new file to project
