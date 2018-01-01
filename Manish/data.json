@@ -1,0 +1,99 @@
+[
+  {
+    "Date": "Mon Aug 21 17", 
+    "Commit": "7151e9de6fbb0707c0acc17c2f87e948cd6158af", 
+    "Dev_Comment": "for every 10 sec the program loops and collect list of files", 
+    "Auther": " mpigelati <saimohansai@gmail.com>"
+  }
+][
+  {
+    "Date": "Mon Aug 21 17",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "for every 10 sec the program loops and collect list of files",
+    "Commit": "7151e9de6fbb0707c0acc17c2f87e948cd6158af"
+  }
+][
+  {
+    "Date": "Mon Aug 21 16",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "working till now",
+    "Commit": "afadba4add9170471c36a7787bd5c1fbcaed0906"
+  }
+][
+  {
+    "Date": "Mon Aug 21 16",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "able to generate log file and pring the content",
+    "Commit": "599e085961879d141b3d492f146473d0ca5fb963"
+  }
+][
+  {
+    "Date": "Mon Aug 21 16",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "able to generate json file",
+    "Commit": "35278c2"
+  }
+][
+  {
+    "Date": "Mon Aug 21 08",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "adding sample to git",
+    "Commit": "35278c202f12cc6a326526c4e68ade795ee925c5"
+  }
+][
+  {
+    "Date": "Sun Aug 20 21",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "adding version in file",
+    "Commit": "6ed8b6c3d93207ee848a4bdde71fa0c09df675a2"
+  }
+][
+  {
+    "Date": "Sat Aug 19 14",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "adding version controling for file",
+    "Commit": "90688db27e23253993a9d6b9573e6fa8bde61374"
+  }
+][
+  {
+    "Date": "Sat Aug 19 14",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "json parsing is not fine",
+    "Commit": "faeaa7dca0d303b33d08a6592f6f5b545b40aab2"
+  }
+][
+  {
+    "Date": "Thu Aug 17 23",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "seeing some issur  in parsing json object",
+    "Commit": "dd1046112455ae287eef32388f89f8141336713d"
+  }
+][
+  {
+    "Date": "Thu Aug 17 19",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "chnages",
+    "Commit": "ba006cabe5dac712eb0f3a0d323d251b9812c5b5"
+  }
+][
+  {
+    "Date": "Wed Aug 16 10",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "able to print committed files using commit",
+    "Commit": "6ccfd840a158da9e38e44044d54345d49e932541"
+  }
+][
+  {
+    "Date": "Wed Aug 16 09",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "basic structure is working",
+    "Commit": "cfbfa9fe9f52d317ace1f05f5f67355103718ce6"
+  }
+][
+  {
+    "Date": "Wed Aug 16 09",
+    "Auther": " mpigelati <saimohansai@gmail.com>",
+    "Dev_Comment": "adding new file to project",
+    "Commit": "1fa8611f16b6ab4c33cc7380dea59309a99fedca"
+  }
+]
